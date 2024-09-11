@@ -49,6 +49,10 @@ También podés compartir tu experiencia en otras redes sociales. Tu opinión ay
 - Tareas disponibles:
   - Resumir las últimas novedades de Nostr.
   - Traducir los artículos a otros idiomas.
+ 
+### Otras comunidades
+
+- [Nostr Japón](https://github.com/nostr-jp)
 
 ## Para cerrar
 El administrador de GitHub `nostr-arg` es Jona (@unllamas) [Nostr](https://zapcito.app/p/npub1em3g0wcfjz5we0gaaelw07fcyqys3fwg42qykw774mvgala424rsl26ytm)
