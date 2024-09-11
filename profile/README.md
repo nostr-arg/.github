@@ -13,12 +13,12 @@ Esta es la página principal del repositorio creado por un grupo de ingenieros v
 
 - No ingreses tu `nsec` en cualquier lado. Las llaves privadas no se pueden cambiar.
 - Por cómo funciona, las publicaciones no se pueden borrar. ¿Estás seguro de que querés que esa publicación quede para siempre?
-- Configurá bien los relays.
+- Configurá bien los `relays`.
 - ¡Cuidado con volverte un adicto! Es tan entretenido que podés perder la noción del tiempo.
 
 ## Recopilación de herramientas y clientes de Nostr
 
-En esta sección vas a encontrar una lista de las herramientas y apps de Nostr creadas por la comunidad de Japón.
+En esta sección vas a encontrar una lista de las herramientas y apps de Nostr creadas por la comunidad Argentina.
 La mayoría de estos proyectos están mantenidos por sus autores en sus propios repos.
 
 [github.com/nostr-arg/awesome-nostr-argentina](https://github.com/nostr-arg/awesome-nostr-argentina)
@@ -43,7 +43,7 @@ También podés compartir tu experiencia en otras redes sociales. Tu opinión ay
 
 ## Actividades dentro de la comunidad
 
-- Reuniones semanales: Solemos reunirnos en las Community Calls de [La Crypta](https://lacrypta.ar/). Además, tenemos un canal específico sobre Nostr para charlas técnicas y de interés general.
+- Reuniones semanales: Solemos reunirnos en las Community Calls de [La Crypta](https://lacrypta.ar/) (18hs Arg). Además, tenemos un canal específico sobre Nostr para charlas técnicas y de interés general.
   - Duración: Aproximadamente 2 horas.
   - Lugar: Discord.
 - Tareas disponibles:
